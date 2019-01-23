@@ -9,6 +9,6 @@ bootstrap + flask + LinearRegressionClassifier
 
 训练集位于 /server/static/images/train 
 
-
 测试集位于 /server/static/images/test
 
+<img src="https://github.com/Evanchen1234/FaceX/blob/master/server/static/images/readme-img.png">
