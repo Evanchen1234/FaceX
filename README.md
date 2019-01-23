@@ -1,4 +1,4 @@
-# FaceX
+## FaceX
 
 基于python的简易人脸识别系统模型
 bootstrap + flask + LinearRegressionClassifier
