@@ -1,0 +1,735 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="bcacb937-5879-412b-95ca-02f7c00dedd6" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/FaceRecognition/server/static/fonts/glyphicons-halflings-regular.eot" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/FaceRecognition/server/static/fonts/glyphicons-halflings-regular.ttf" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/FaceRecognition/server/static/fonts/glyphicons-halflings-regular.woff" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/FaceRecognition/server/static/fonts/glyphicons-halflings-regular.woff2" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/FaceRecognition/server/static/images/default.jpg" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/FaceRecognition/server/static/images/detected.png" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/FaceRecognition/server/static/images/fr_background.jpg" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/FaceRecognition/server/static/images/init.jpg" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/FaceRecognition/server/static/images/leaves.png" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/FaceRecognition/server/static/images/show/first.jpg" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/FaceRecognition/server/static/images/show/fourth.jpg" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/FaceRecognition/server/static/images/show/second.jpg" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/FaceRecognition/server/static/images/show/third.jpg" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/FaceRecognition/server/static/images/test/001_02_test.png" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/FaceRecognition/server/static/images/test/001_05_test.png" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/FaceRecognition/server/static/images/test/001_10_test.png" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/FaceRecognition/server/static/images/test/002_02_test.png" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/FaceRecognition/server/static/images/test/002_05_test.png" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/FaceRecognition/server/static/images/test/002_10_test.png" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/FaceRecognition/server/static/images/test/003_02_test.png" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/FaceRecognition/server/static/images/test/003_05_test.png" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/FaceRecognition/server/static/images/test/003_10_test.png" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/FaceRecognition/server/static/images/test/004_02_test.png" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/FaceRecognition/server/static/images/test/004_05_test.png" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/FaceRecognition/server/static/images/test/004_10_test.png" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/FaceRecognition/server/static/images/test/005_02_test.png" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/FaceRecognition/server/static/images/test/005_05_test.png" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/FaceRecognition/server/static/images/test/005_10_test.png" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/FaceRecognition/server/static/images/test/006_02_test.png" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/FaceRecognition/server/static/images/test/006_05_test.png" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/FaceRecognition/server/static/images/test/006_10_test.png" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/FaceRecognition/server/static/images/test/007_02_test.png" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/FaceRecognition/server/static/images/test/007_05_test.png" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/FaceRecognition/server/static/images/test/007_10_test.png" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/FaceRecognition/server/static/images/test/008_02_test.png" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/FaceRecognition/server/static/images/test/008_05_test.png" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/FaceRecognition/server/static/images/test/008_10_test.png" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/FaceRecognition/server/static/images/test/009_02_test.png" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/FaceRecognition/server/static/images/test/009_05_test.png" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/FaceRecognition/server/static/images/test/009_10_test.png" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/FaceRecognition/server/static/images/test/010_02_test.png" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/FaceRecognition/server/static/images/test/010_05_test.png" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/FaceRecognition/server/static/images/test/010_10_test.png" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/FaceRecognition/server/static/images/test/011_02_test.png" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/FaceRecognition/server/static/images/test/011_05_test.png" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/FaceRecognition/server/static/images/test/011_10_test.png" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/FaceRecognition/server/static/images/test/012_02_test.png" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/FaceRecognition/server/static/images/test/012_05_test.png" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/FaceRecognition/server/static/images/test/012_10_test.png" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/FaceRecognition/server/static/images/test/013_02_test.png" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/FaceRecognition/server/static/images/test/013_05_test.png" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/FaceRecognition/server/static/images/test/013_10_test.png" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/FaceRecognition/server/static/images/test/014_02_test.png" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/FaceRecognition/server/static/images/test/014_05_test.png" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/FaceRecognition/server/static/images/test/014_10_test.png" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/FaceRecognition/server/static/images/test/015_02_test.png" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/FaceRecognition/server/static/images/test/015_05_test.png" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/FaceRecognition/server/static/images/test/015_10_test.png" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/FaceRecognition/server/static/images/test/016_02_test.png" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/FaceRecognition/server/static/images/test/016_05_test.png" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/FaceRecognition/server/static/images/test/016_10_test.png" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/FaceRecognition/server/static/images/test/017_02_test.png" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/FaceRecognition/server/static/images/test/017_05_test.png" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/FaceRecognition/server/static/images/test/017_10_test.png" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/FaceRecognition/server/static/images/test/018_02_test.png" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/FaceRecognition/server/static/images/test/018_05_test.png" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/FaceRecognition/server/static/images/test/018_10_test.png" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/FaceRecognition/server/static/images/test/019_02_test.png" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/FaceRecognition/server/static/images/test/019_05_test.png" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/FaceRecognition/server/static/images/test/019_10_test.png" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/FaceRecognition/server/static/images/test/020_02_test.png" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/FaceRecognition/server/static/images/test/020_05_test.png" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/FaceRecognition/server/static/images/test/020_10_test.png" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/FaceRecognition/server/static/images/test/021_02_test.png" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/FaceRecognition/server/static/images/test/021_05_test.png" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/FaceRecognition/server/static/images/test/021_10_test.png" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/FaceRecognition/server/static/images/test/022_02_test.png" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/FaceRecognition/server/static/images/test/022_05_test.png" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/FaceRecognition/server/static/images/test/022_10_test.png" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/FaceRecognition/server/static/images/test/023_02_test.png" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/FaceRecognition/server/static/images/test/023_05_test.png" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/FaceRecognition/server/static/images/test/023_10_test.png" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/FaceRecognition/server/static/images/test/024_02_test.png" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/FaceRecognition/server/static/images/test/024_05_test.png" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/FaceRecognition/server/static/images/test/024_10_test.png" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/FaceRecognition/server/static/images/test/025_02_test.png" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/FaceRecognition/server/static/images/test/025_05_test.png" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/FaceRecognition/server/static/images/test/025_10_test.png" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/FaceRecognition/server/static/images/test/026_02_test.png" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/FaceRecognition/server/static/images/test/026_05_test.png" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/FaceRecognition/server/static/images/test/026_10_test.png" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/FaceRecognition/server/static/images/test/027_02_test.png" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/FaceRecognition/server/static/images/test/027_05_test.png" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/FaceRecognition/server/static/images/test/027_10_test.png" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/FaceRecognition/server/static/images/test/028_02_test.png" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/FaceRecognition/server/static/images/test/028_05_test.png" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/FaceRecognition/server/static/images/test/028_10_test.png" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/FaceRecognition/server/static/images/test/029_02_test.png" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/FaceRecognition/server/static/images/test/029_05_test.png" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/FaceRecognition/server/static/images/test/029_10_test.png" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/FaceRecognition/server/static/images/test/030_02_test.png" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/FaceRecognition/server/static/images/test/030_05_test.png" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/FaceRecognition/server/static/images/test/030_10_test.png" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/FaceRecognition/server/static/images/test/031_02_test.png" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/FaceRecognition/server/static/images/test/031_05_test.png" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/FaceRecognition/server/static/images/test/031_10_test.png" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/FaceRecognition/server/static/images/test/032_02_test.png" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/FaceRecognition/server/static/images/test/032_05_test.png" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/FaceRecognition/server/static/images/test/032_10_test.png" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/FaceRecognition/server/static/images/test/033_02_test.png" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/FaceRecognition/server/static/images/test/033_05_test.png" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/FaceRecognition/server/static/images/test/033_10_test.png" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/FaceRecognition/server/static/images/test/034_02_test.png" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/FaceRecognition/server/static/images/test/034_05_test.png" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/FaceRecognition/server/static/images/test/034_10_test.png" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/FaceRecognition/server/static/images/test/035_02_test.png" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/FaceRecognition/server/static/images/test/035_05_test.png" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/FaceRecognition/server/static/images/test/035_10_test.png" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/FaceRecognition/server/static/images/test/036_02_test.png" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/FaceRecognition/server/static/images/test/036_05_test.png" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/FaceRecognition/server/static/images/test/036_10_test.png" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/FaceRecognition/server/static/images/test/037_02_test.png" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/FaceRecognition/server/static/images/test/037_05_test.png" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/FaceRecognition/server/static/images/test/037_10_test.png" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/FaceRecognition/server/static/images/test/038_02_test.png" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/FaceRecognition/server/static/images/test/038_05_test.png" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/FaceRecognition/server/static/images/test/038_10_test.png" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/FaceRecognition/server/static/images/test/039_02_test.png" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/FaceRecognition/server/static/images/test/039_05_test.png" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/FaceRecognition/server/static/images/test/039_10_test.png" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/FaceRecognition/server/static/images/test/040_02_test.png" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/FaceRecognition/server/static/images/test/040_05_test.png" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/FaceRecognition/server/static/images/test/040_10_test.png" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/FaceRecognition/server/static/images/title.png" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/FaceRecognition/server/static/images/train/001_01_train.png" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/FaceRecognition/server/static/images/train/001_03_train.png" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/FaceRecognition/server/static/images/train/001_04_train.png" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/FaceRecognition/server/static/images/train/001_06_train.png" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/FaceRecognition/server/static/images/train/001_07_train.png" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/FaceRecognition/server/static/images/train/001_08_train.png" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/FaceRecognition/server/static/images/train/001_09_train.png" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/FaceRecognition/server/static/images/train/002_01_train.png" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/FaceRecognition/server/static/images/train/002_03_train.png" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/FaceRecognition/server/static/images/train/002_04_train.png" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/FaceRecognition/server/static/images/train/002_06_train.png" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/FaceRecognition/server/static/images/train/002_07_train.png" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/FaceRecognition/server/static/images/train/002_08_train.png" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/FaceRecognition/server/static/images/train/002_09_train.png" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/FaceRecognition/server/static/images/train/003_01_train.png" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/FaceRecognition/server/static/images/train/003_03_train.png" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/FaceRecognition/server/static/images/train/003_04_train.png" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/FaceRecognition/server/static/images/train/003_06_train.png" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/FaceRecognition/server/static/images/train/003_07_train.png" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/FaceRecognition/server/static/images/train/003_08_train.png" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/FaceRecognition/server/static/images/train/003_09_train.png" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/FaceRecognition/server/static/images/train/004_01_train.png" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/FaceRecognition/server/static/images/train/004_03_train.png" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/FaceRecognition/server/static/images/train/004_04_train.png" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/FaceRecognition/server/static/images/train/004_06_train.png" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/FaceRecognition/server/static/images/train/004_07_train.png" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/FaceRecognition/server/static/images/train/004_08_train.png" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/FaceRecognition/server/static/images/train/004_09_train.png" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/FaceRecognition/server/static/images/train/005_01_train.png" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/FaceRecognition/server/static/images/train/005_03_train.png" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/FaceRecognition/server/static/images/train/005_04_train.png" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/FaceRecognition/server/static/images/train/005_06_train.png" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/FaceRecognition/server/static/images/train/005_07_train.png" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/FaceRecognition/server/static/images/train/005_08_train.png" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/FaceRecognition/server/static/images/train/005_09_train.png" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/FaceRecognition/server/static/images/train/006_01_train.png" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/FaceRecognition/server/static/images/train/006_03_train.png" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/FaceRecognition/server/static/images/train/006_04_train.png" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/FaceRecognition/server/static/images/train/006_06_train.png" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/FaceRecognition/server/static/images/train/006_07_train.png" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/FaceRecognition/server/static/images/train/006_08_train.png" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/FaceRecognition/server/static/images/train/006_09_train.png" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/FaceRecognition/server/static/images/train/007_01_train.png" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/FaceRecognition/server/static/images/train/007_03_train.png" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/FaceRecognition/server/static/images/train/007_04_train.png" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/FaceRecognition/server/static/images/train/007_06_train.png" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/FaceRecognition/server/static/images/train/007_07_train.png" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/FaceRecognition/server/static/images/train/007_08_train.png" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/FaceRecognition/server/static/images/train/007_09_train.png" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/FaceRecognition/server/static/images/train/008_01_train.png" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/FaceRecognition/server/static/images/train/008_03_train.png" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/FaceRecognition/server/static/images/train/008_04_train.png" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/FaceRecognition/server/static/images/train/008_06_train.png" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/FaceRecognition/server/static/images/train/008_07_train.png" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/FaceRecognition/server/static/images/train/008_08_train.png" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/FaceRecognition/server/static/images/train/008_09_train.png" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/FaceRecognition/server/static/images/train/009_01_train.png" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/FaceRecognition/server/static/images/train/009_03_train.png" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/FaceRecognition/server/static/images/train/009_04_train.png" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/FaceRecognition/server/static/images/train/009_06_train.png" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/FaceRecognition/server/static/images/train/009_07_train.png" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/FaceRecognition/server/static/images/train/009_08_train.png" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/FaceRecognition/server/static/images/train/009_09_train.png" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/FaceRecognition/server/static/images/train/010_01_train.png" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/FaceRecognition/server/static/images/train/010_03_train.png" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/FaceRecognition/server/static/images/train/010_04_train.png" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/FaceRecognition/server/static/images/train/010_06_train.png" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/FaceRecognition/server/static/images/train/010_07_train.png" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/FaceRecognition/server/static/images/train/010_08_train.png" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/FaceRecognition/server/static/images/train/010_09_train.png" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/FaceRecognition/server/static/images/train/011_01_train.png" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/FaceRecognition/server/static/images/train/011_03_train.png" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/FaceRecognition/server/static/images/train/011_04_train.png" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/FaceRecognition/server/static/images/train/011_06_train.png" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/FaceRecognition/server/static/images/train/011_07_train.png" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/FaceRecognition/server/static/images/train/011_08_train.png" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/FaceRecognition/server/static/images/train/011_09_train.png" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/FaceRecognition/server/static/images/train/012_01_train.png" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/FaceRecognition/server/static/images/train/012_03_train.png" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/FaceRecognition/server/static/images/train/012_04_train.png" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/FaceRecognition/server/static/images/train/012_06_train.png" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/FaceRecognition/server/static/images/train/012_07_train.png" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/FaceRecognition/server/static/images/train/012_08_train.png" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/FaceRecognition/server/static/images/train/012_09_train.png" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/FaceRecognition/server/static/images/train/013_01_train.png" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/FaceRecognition/server/static/images/train/013_03_train.png" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/FaceRecognition/server/static/images/train/013_04_train.png" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/FaceRecognition/server/static/images/train/013_06_train.png" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/FaceRecognition/server/static/images/train/013_07_train.png" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/FaceRecognition/server/static/images/train/013_08_train.png" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/FaceRecognition/server/static/images/train/013_09_train.png" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/FaceRecognition/server/static/images/train/014_01_train.png" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/FaceRecognition/server/static/images/train/014_03_train.png" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/FaceRecognition/server/static/images/train/014_04_train.png" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/FaceRecognition/server/static/images/train/014_06_train.png" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/FaceRecognition/server/static/images/train/014_07_train.png" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/FaceRecognition/server/static/images/train/014_08_train.png" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/FaceRecognition/server/static/images/train/014_09_train.png" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/FaceRecognition/server/static/images/train/015_01_train.png" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/FaceRecognition/server/static/images/train/015_03_train.png" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/FaceRecognition/server/static/images/train/015_04_train.png" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/FaceRecognition/server/static/images/train/015_06_train.png" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/FaceRecognition/server/static/images/train/015_07_train.png" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/FaceRecognition/server/static/images/train/015_08_train.png" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/FaceRecognition/server/static/images/train/015_09_train.png" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/FaceRecognition/server/static/images/train/016_01_train.png" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/FaceRecognition/server/static/images/train/016_03_train.png" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/FaceRecognition/server/static/images/train/016_04_train.png" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/FaceRecognition/server/static/images/train/016_06_train.png" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/FaceRecognition/server/static/images/train/016_07_train.png" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/FaceRecognition/server/static/images/train/016_08_train.png" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/FaceRecognition/server/static/images/train/016_09_train.png" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/FaceRecognition/server/static/images/train/017_01_train.png" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/FaceRecognition/server/static/images/train/017_03_train.png" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/FaceRecognition/server/static/images/train/017_04_train.png" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/FaceRecognition/server/static/images/train/017_06_train.png" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/FaceRecognition/server/static/images/train/017_07_train.png" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/FaceRecognition/server/static/images/train/017_08_train.png" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/FaceRecognition/server/static/images/train/017_09_train.png" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/FaceRecognition/server/static/images/train/018_01_train.png" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/FaceRecognition/server/static/images/train/018_03_train.png" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/FaceRecognition/server/static/images/train/018_04_train.png" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/FaceRecognition/server/static/images/train/018_06_train.png" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/FaceRecognition/server/static/images/train/018_07_train.png" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/FaceRecognition/server/static/images/train/018_08_train.png" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/FaceRecognition/server/static/images/train/018_09_train.png" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/FaceRecognition/server/static/images/train/019_01_train.png" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/FaceRecognition/server/static/images/train/019_03_train.png" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/FaceRecognition/server/static/images/train/019_04_train.png" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/FaceRecognition/server/static/images/train/019_06_train.png" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/FaceRecognition/server/static/images/train/019_07_train.png" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/FaceRecognition/server/static/images/train/019_08_train.png" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/FaceRecognition/server/static/images/train/019_09_train.png" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/FaceRecognition/server/static/images/train/020_01_train.png" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/FaceRecognition/server/static/images/train/020_03_train.png" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/FaceRecognition/server/static/images/train/020_04_train.png" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/FaceRecognition/server/static/images/train/020_06_train.png" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/FaceRecognition/server/static/images/train/020_07_train.png" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/FaceRecognition/server/static/images/train/020_08_train.png" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/FaceRecognition/server/static/images/train/020_09_train.png" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/FaceRecognition/server/static/images/train/021_01_train.png" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/FaceRecognition/server/static/images/train/021_03_train.png" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/FaceRecognition/server/static/images/train/021_04_train.png" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/FaceRecognition/server/static/images/train/021_06_train.png" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/FaceRecognition/server/static/images/train/021_07_train.png" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/FaceRecognition/server/static/images/train/021_08_train.png" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/FaceRecognition/server/static/images/train/021_09_train.png" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/FaceRecognition/server/static/images/train/022_01_train.png" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/FaceRecognition/server/static/images/train/022_03_train.png" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/FaceRecognition/server/static/images/train/022_04_train.png" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/FaceRecognition/server/static/images/train/022_06_train.png" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/FaceRecognition/server/static/images/train/022_07_train.png" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/FaceRecognition/server/static/images/train/022_08_train.png" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/FaceRecognition/server/static/images/train/022_09_train.png" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/FaceRecognition/server/static/images/train/023_01_train.png" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/FaceRecognition/server/static/images/train/023_03_train.png" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/FaceRecognition/server/static/images/train/023_04_train.png" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/FaceRecognition/server/static/images/train/023_06_train.png" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/FaceRecognition/server/static/images/train/023_07_train.png" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/FaceRecognition/server/static/images/train/023_08_train.png" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/FaceRecognition/server/static/images/train/023_09_train.png" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/FaceRecognition/server/static/images/train/024_01_train.png" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/FaceRecognition/server/static/images/train/024_03_train.png" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/FaceRecognition/server/static/images/train/024_04_train.png" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/FaceRecognition/server/static/images/train/024_06_train.png" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/FaceRecognition/server/static/images/train/024_07_train.png" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/FaceRecognition/server/static/images/train/024_08_train.png" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/FaceRecognition/server/static/images/train/024_09_train.png" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/FaceRecognition/server/static/images/train/025_01_train.png" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/FaceRecognition/server/static/images/train/025_03_train.png" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/FaceRecognition/server/static/images/train/025_04_train.png" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/FaceRecognition/server/static/images/train/025_06_train.png" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/FaceRecognition/server/static/images/train/025_07_train.png" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/FaceRecognition/server/static/images/train/025_08_train.png" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/FaceRecognition/server/static/images/train/025_09_train.png" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/FaceRecognition/server/static/images/train/026_01_train.png" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/FaceRecognition/server/static/images/train/026_03_train.png" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/FaceRecognition/server/static/images/train/026_04_train.png" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/FaceRecognition/server/static/images/train/026_06_train.png" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/FaceRecognition/server/static/images/train/026_07_train.png" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/FaceRecognition/server/static/images/train/026_08_train.png" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/FaceRecognition/server/static/images/train/026_09_train.png" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/FaceRecognition/server/static/images/train/027_01_train.png" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/FaceRecognition/server/static/images/train/027_03_train.png" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/FaceRecognition/server/static/images/train/027_04_train.png" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/FaceRecognition/server/static/images/train/027_06_train.png" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/FaceRecognition/server/static/images/train/027_07_train.png" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/FaceRecognition/server/static/images/train/027_08_train.png" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/FaceRecognition/server/static/images/train/027_09_train.png" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/FaceRecognition/server/static/images/train/028_01_train.png" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/FaceRecognition/server/static/images/train/028_03_train.png" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/FaceRecognition/server/static/images/train/028_04_train.png" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/FaceRecognition/server/static/images/train/028_06_train.png" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/FaceRecognition/server/static/images/train/028_07_train.png" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/FaceRecognition/server/static/images/train/028_08_train.png" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/FaceRecognition/server/static/images/train/028_09_train.png" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/FaceRecognition/server/static/images/train/029_01_train.png" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/FaceRecognition/server/static/images/train/029_03_train.png" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/FaceRecognition/server/static/images/train/029_04_train.png" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/FaceRecognition/server/static/images/train/029_06_train.png" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/FaceRecognition/server/static/images/train/029_07_train.png" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/FaceRecognition/server/static/images/train/029_08_train.png" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/FaceRecognition/server/static/images/train/029_09_train.png" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/FaceRecognition/server/static/images/train/030_01_train.png" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/FaceRecognition/server/static/images/train/030_03_train.png" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/FaceRecognition/server/static/images/train/030_04_train.png" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/FaceRecognition/server/static/images/train/030_06_train.png" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/FaceRecognition/server/static/images/train/030_07_train.png" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/FaceRecognition/server/static/images/train/030_08_train.png" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/FaceRecognition/server/static/images/train/030_09_train.png" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/FaceRecognition/server/static/images/train/031_01_train.png" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/FaceRecognition/server/static/images/train/031_03_train.png" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/FaceRecognition/server/static/images/train/031_04_train.png" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/FaceRecognition/server/static/images/train/031_06_train.png" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/FaceRecognition/server/static/images/train/031_07_train.png" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/FaceRecognition/server/static/images/train/031_08_train.png" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/FaceRecognition/server/static/images/train/031_09_train.png" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/FaceRecognition/server/static/images/train/032_01_train.png" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/FaceRecognition/server/static/images/train/032_03_train.png" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/FaceRecognition/server/static/images/train/032_04_train.png" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/FaceRecognition/server/static/images/train/032_06_train.png" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/FaceRecognition/server/static/images/train/032_07_train.png" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/FaceRecognition/server/static/images/train/032_08_train.png" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/FaceRecognition/server/static/images/train/032_09_train.png" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/FaceRecognition/server/static/images/train/033_01_train.png" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/FaceRecognition/server/static/images/train/033_03_train.png" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/FaceRecognition/server/static/images/train/033_04_train.png" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/FaceRecognition/server/static/images/train/033_06_train.png" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/FaceRecognition/server/static/images/train/033_07_train.png" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/FaceRecognition/server/static/images/train/033_08_train.png" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/FaceRecognition/server/static/images/train/033_09_train.png" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/FaceRecognition/server/static/images/train/034_01_train.png" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/FaceRecognition/server/static/images/train/034_03_train.png" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/FaceRecognition/server/static/images/train/034_04_train.png" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/FaceRecognition/server/static/images/train/034_06_train.png" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/FaceRecognition/server/static/images/train/034_07_train.png" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/FaceRecognition/server/static/images/train/034_08_train.png" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/FaceRecognition/server/static/images/train/034_09_train.png" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/FaceRecognition/server/static/images/train/035_01_train.png" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/FaceRecognition/server/static/images/train/035_03_train.png" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/FaceRecognition/server/static/images/train/035_04_train.png" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/FaceRecognition/server/static/images/train/035_06_train.png" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/FaceRecognition/server/static/images/train/035_07_train.png" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/FaceRecognition/server/static/images/train/035_08_train.png" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/FaceRecognition/server/static/images/train/035_09_train.png" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/FaceRecognition/server/static/images/train/036_01_train.png" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/FaceRecognition/server/static/images/train/036_03_train.png" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/FaceRecognition/server/static/images/train/036_04_train.png" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/FaceRecognition/server/static/images/train/036_06_train.png" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/FaceRecognition/server/static/images/train/036_07_train.png" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/FaceRecognition/server/static/images/train/036_08_train.png" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/FaceRecognition/server/static/images/train/036_09_train.png" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/FaceRecognition/server/static/images/train/037_01_train.png" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/FaceRecognition/server/static/images/train/037_03_train.png" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/FaceRecognition/server/static/images/train/037_04_train.png" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/FaceRecognition/server/static/images/train/037_06_train.png" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/FaceRecognition/server/static/images/train/037_07_train.png" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/FaceRecognition/server/static/images/train/037_08_train.png" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/FaceRecognition/server/static/images/train/037_09_train.png" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/FaceRecognition/server/static/images/train/038_01_train.png" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/FaceRecognition/server/static/images/train/038_03_train.png" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/FaceRecognition/server/static/images/train/038_04_train.png" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/FaceRecognition/server/static/images/train/038_06_train.png" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/FaceRecognition/server/static/images/train/038_07_train.png" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/FaceRecognition/server/static/images/train/038_08_train.png" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/FaceRecognition/server/static/images/train/038_09_train.png" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/FaceRecognition/server/static/images/train/039_01_train.png" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/FaceRecognition/server/static/images/train/039_03_train.png" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/FaceRecognition/server/static/images/train/039_04_train.png" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/FaceRecognition/server/static/images/train/039_06_train.png" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/FaceRecognition/server/static/images/train/039_07_train.png" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/FaceRecognition/server/static/images/train/039_08_train.png" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/FaceRecognition/server/static/images/train/039_09_train.png" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/FaceRecognition/server/static/images/train/040_01_train.png" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/FaceRecognition/server/static/images/train/040_03_train.png" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/FaceRecognition/server/static/images/train/040_04_train.png" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/FaceRecognition/server/static/images/train/040_06_train.png" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/FaceRecognition/server/static/images/train/040_07_train.png" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/FaceRecognition/server/static/images/train/040_08_train.png" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/FaceRecognition/server/static/images/train/040_09_train.png" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/FaceRecognition/.idea/.name" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/FaceRecognition/.idea/FaceX.iml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/FaceRecognition/.idea/markdown-navigator/profiles_settings.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/FaceRecognition/.idea/misc.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/FaceRecognition/.idea/modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/FaceRecognition/.idea/workspace.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/FaceRecognition/manage.py" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/FaceRecognition/requirements.txt" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/FaceRecognition/server/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/FaceRecognition/server/static/css/bootstrap.css.map" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/FaceRecognition/server/static/css/bootstrap.min.css" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/FaceRecognition/server/static/css/bootstrap.min.css.map" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/FaceRecognition/server/static/css/fileinput.min.css" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/FaceRecognition/server/static/fonts/glyphicons-halflings-regular.svg" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/FaceRecognition/server/static/js/bootstrap.min.js" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/FaceRecognition/server/static/js/fileinput.min.js" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/FaceRecognition/server/static/js/jquery.min.js" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/FaceRecognition/server/static/js/prettyphoto/jquery.prettyPhoto.js" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/FaceRecognition/server/static/js/prettyphoto/jquery.prettyPhotoaeb9.js" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/FaceRecognition/server/static/js/prettyphoto/prettyPhotoaeb9.css" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/FaceRecognition/server/static/js/zh.js" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/FaceRecognition/server/static/model/pca.m" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/FaceRecognition/server/static/style.css" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/FaceRecognition/server/templates/fr_index.html" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/FaceRecognition/server/views/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/FaceRecognition/server/views/model.py" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/FaceRecognition/server/views/router.py" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="manage.py" pinned="false" current-in-tab="false">
+        <entry file="file://$USER_HOME$/FaceRecognition/manage.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="180">
+              <caret line="9" column="26" lean-forward="false" selection-start-line="9" selection-start-column="26" selection-end-line="9" selection-end-column="26" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="router.py" pinned="false" current-in-tab="false">
+        <entry file="file://$USER_HOME$/FaceRecognition/server/views/router.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="220">
+              <caret line="11" column="0" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="__init__.py" pinned="false" current-in-tab="true">
+        <entry file="file://$USER_HOME$/FaceRecognition/server/__init__.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="475">
+              <caret line="27" column="0" lean-forward="true" selection-start-line="27" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
+              <folding>
+                <element signature="e#81#111#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$USER_HOME$/FaceRecognition" />
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="y" value="23" />
+    <option name="width" value="1280" />
+    <option name="height" value="721" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource ProjectPane="true" />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="Scratches" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="FaceX" type="b2602c69:ProjectViewProjectNode" />
+              <item name="FaceRecognition" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$USER_HOME$/parameterServer-env/bin/python2" />
+    <property name="settings.editor.selected.configurable" value="preferences.externalResources" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.manage">
+    <configuration default="true" type="tests" factoryName="Doctests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="untitled" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Nosetests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="untitled" />
+      <option name="_new_regexPattern" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+    </configuration>
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="untitled" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
+    <configuration default="true" type="Tox" factoryName="Tox">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="untitled" />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Unittests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="untitled" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="py.test">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="untitled" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+    </configuration>
+    <configuration name="manage" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$USER_HOME$/FaceRecognition" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="FaceX" />
+      <option name="SCRIPT_NAME" value="$USER_HOME$/FaceRecognition/manage.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
+    <recent_temporary>
+      <list size="1">
+        <item index="0" class="java.lang.String" itemvalue="Python.manage" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bcacb937-5879-412b-95ca-02f7c00dedd6" name="Default" comment="" />
+      <created>1548207502189</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1548207502189</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="23" width="1280" height="721" extended-state="0" />
+    <layout>
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24959612" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3290735" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3290735" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.399361" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$USER_HOME$/FaceRecognition/manage.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="9" column="26" lean-forward="false" selection-start-line="9" selection-start-column="26" selection-end-line="9" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/FaceRecognition/server/views/router.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="11" column="0" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/FaceRecognition/server/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="475">
+          <caret line="27" column="0" lean-forward="true" selection-start-line="27" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
+          <folding>
+            <element signature="e#81#111#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

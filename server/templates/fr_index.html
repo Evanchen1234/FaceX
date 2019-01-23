@@ -1,0 +1,121 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>人脸识别系统Demo</title>
+    <link href="{{ url_for('static', filename= 'css/bootstrap.min.css') }}" rel="stylesheet">
+    <link href="{{ url_for('static', filename= 'css/fileinput.min.css') }}" rel="stylesheet">
+
+    <style>
+    .list li{
+	display:inline-block;
+	line-height:200px;
+	margin:10px 20px;
+    }
+
+    .main{
+    --background-color: rgba(0, 0, 0, 0);
+    /*边框*/
+    border: solid 1px rgba(102, 146, 191, 0.68);
+    /*边角弧度*/
+    border-radius: 10px;
+    /*阴影*/
+    -moz-box-shadow:4px 4px 6px #333333;
+    -webkit-box-shadow:4px 4px 6px #333333;
+    box-shadow: 7px 1px 15px #285a63;
+    }
+
+    .loc{
+    margin:0 auto;
+    width:320px;
+    }
+    #jz{ margin:0 auto; width:520px; height:320px; border:1px}
+
+
+    </style>
+
+</head>
+
+<body background="static/images/leaves.png">
+<div class="loc" style="margin-top:30px;text-align:center;">
+    <img style="margin-left:40px" width="400px" src="static/images/title.png">
+</div>
+
+
+<div style="margin-top:20px">
+    <div style="float:left;width:300px;margin-left:150px">
+        <div>
+            <input id="image" name="image" type="file" class="file">
+
+            <a class="btn btn-info" href="/detected" style="width:300px;margin-top:10px">一键人脸检测</a>
+        </div>
+    </div>
+
+    <div id="pjax-box">
+        <div class='main' id="jz" style="margin-top:30px;margin-left:550px;text-align:center">
+            <label style="margin-top:20px">识别结果展示</label>
+            <ul class="list">
+                <li><img class="img-thumbnail" src="static/images/show/first.jpg" width="160px"></li>
+                <li><img class="img-thumbnail" src="static/images/show/second.jpg" width="160px"></li>
+            </ul>
+        </div>
+    </div>
+</div>
+
+
+<script src="{{ url_for('static', filename= 'js/jquery.min.js') }}"></script>
+<script src="{{ url_for('static', filename= 'js/bootstrap.min.js') }}"></script>
+<script src="{{ url_for('static', filename= 'js/fileinput.min.js') }}"></script>
+<script src="{{ url_for('static', filename= 'js/zh.js') }}"></script>
+<script type="text/javascript" src="//cdn.staticfile.org/jquery.pjax/1.9.6/jquery.pjax.min.js"></script>
+
+<!-- page script -->
+<script>
+    $("#image").fileinput({
+        language: 'zh', //设置语言
+        uploadUrl: "/upload", //上传的地址
+        allowedFileExtensions: ['png', 'jpg', 'JPG', 'PNG', 'bmp'],//接收的文件后缀
+        uploadAsync: true, //默认异步上传
+        showUpload: true, //是否显示上传按钮
+
+        showRemove : true, //显示移除按钮
+        showPreview : true, //是否显示预览
+        showCaption: true,//是否显示标题
+        browseClass: "btn btn-primary", //按钮样式
+        dropZoneEnabled: true,//是否显示拖拽区域
+        maxFileCount: 1, //表示允许同时上传的最大文件个数
+        enctype: 'multipart/form-data',
+        validateInitialCount:true
+    });
+    //异步上传返回结果处理
+    $("#uploadfile").on("fileuploaded", function (event, data, previewId, index) {
+        var response = data.response;
+        alert(response.filePath);
+        $("#fileMd5").val(response.fileMd5);
+        $("#version").val(response.newVersionName);
+        $("#url").val(response.filePath);
+    });
+
+    //上传前
+    $('#uploadfile').on('filepreupload', function(event, data, previewId, index) {
+    var form = data.form, files = data.files, extra = data.extra,
+    response = data.response, reader = data.reader;
+    });
+
+    function initPjax() {
+                        if (!!(window.history && history.pushState)) {
+                                $(document).pjax('a:not(a[target="_blank"])', 'div[id="pjax-box"]', {
+                                        fragment: 'div[id="pjax-box"]',
+                                        time: 50
+                                });
+                        }
+
+                }
+
+initPjax();
+
+
+</script>
+
+</body>
+</html>
