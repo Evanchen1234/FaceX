@@ -10,7 +10,7 @@ Flask==1.0.2
 importlib-metadata==0.8
 isodate==0.6.0
 itsdangerous==1.1.0
-Jinja2==2.10
+Jinja2==2.11.3
 MarkupSafe==1.1.0
 mock==2.0.0
 more-itertools==4.3.0
